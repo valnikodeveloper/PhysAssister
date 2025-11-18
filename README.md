@@ -1,2 +1,2 @@
 # FitReps: Counter & HIIT Timer
-Privacy Policy for PhysAssister
+Privacy Policy for FitReps: Counter & HIIT Timer
